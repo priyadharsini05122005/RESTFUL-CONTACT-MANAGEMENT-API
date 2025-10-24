@@ -120,8 +120,6 @@ footer {
   </header>
 
   <main>
-    <h2>Project Output:</h2>
-    <img src="output.png" alt="RESTful Contact API Output" width="500">
        <section class="form-section">
       <input id="name" placeholder="👤 Name" />
       <input id="email" placeholder="📧 Email" />
